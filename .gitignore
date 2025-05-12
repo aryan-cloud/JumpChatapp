@@ -10,3 +10,6 @@ xcuserdata/
 
 # Firebase
 GoogleService-Info.plist
+
+# Local Secrets
+JumpChatApp/JumpChatApp/Secrets.swift
